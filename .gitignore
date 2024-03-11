@@ -1,0 +1,9 @@
+### main template
+idea/
+__pycache__/
+re-action.log*
+re_action_data
+djangoenv/
+.env
+*.log
+requests_ex.http
